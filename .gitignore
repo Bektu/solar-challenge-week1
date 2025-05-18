@@ -1,0 +1,4 @@
+solar-env/ 
+data/ 
+*.csv 
+.ipynb_checkpoints/ 
